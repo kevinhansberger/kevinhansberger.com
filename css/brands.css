@@ -205,8 +205,8 @@ button:hover,
 
 /* Buy Me a Coffee */
 .button.button-coffee {
-  color: #000000;
-  background-color: #ffdd00;
+  color: #FFFFFF;
+  background-color: #EF6A00;
 }
 .button.button-coffee:hover,
 .button.button-coffee:focus {
@@ -1095,5 +1095,15 @@ button:hover,
 }
 .button.button-sagemedia:hover,
 .button.button-sagemedia:focus {
+  filter: brightness(90%);
+}
+
+/* Sage and Clay Designs */
+.button.button-sageandclaydesigns {
+  color: #ffffff;
+  background-color: #738879;
+}
+.button.button-shop:hover,
+.button.button-shop:focus {
   filter: brightness(90%);
 }
