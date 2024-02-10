@@ -1107,3 +1107,12 @@ button:hover,
 .button.button-sageandclaydesigns:focus {
   filter: brightness(90%);
 }
+/* Ethos */
+.button.button-sageandclaydesigns {
+  color: #000000;
+  background-color: #DBEDE5;
+}
+.button.button-sageandclaydesigns:hover,
+.button.button-sageandclaydesigns:focus {
+  filter: brightness(90%);
+}
