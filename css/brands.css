@@ -1122,7 +1122,7 @@ button:hover,
   background-color: #000000;
   border-style: solid;
   border-width: 2px;
-  border-color: #ffffff;
+  border-color: red;
 }
 .button.button-same:hover,
 .button.button-same:focus {
