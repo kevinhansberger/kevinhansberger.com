@@ -1120,7 +1120,7 @@ button:hover,
 .button.button-same {
   color: #ffffff;
   background-color: #000000;
-  border-width: medium;
+  border-width: 2px;
   border-color: #ffffff;
 }
 .button.button-same:hover,
