@@ -1116,3 +1116,12 @@ button:hover,
 .button.button-ethos:focus {
   filter: brightness(90%);
 }
+/* Same */
+.button.button-same {
+  color: #ffffff;
+  background-color: #000000;
+}
+.button.button-same:hover,
+.button.button-same:focus {
+  filter: brightness(90%);
+}
