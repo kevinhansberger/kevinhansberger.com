@@ -1120,6 +1120,8 @@ button:hover,
 .button.button-same {
   color: #ffffff;
   background-color: #000000;
+  border-width: medium;
+  border-color: #ffffff;
 }
 .button.button-same:hover,
 .button.button-same:focus {
